@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Lianjie"
+  id="myeclipse.1557563960051"
+  context-root="/Lianjie"
+  j2ee-spec="5.0"
+  archive="Lianjie.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
